@@ -1,6 +1,5 @@
 [
-    "./Input/dist/input.js",
-    "./Output/dist/output.js",
-    "./Passthrough/dist/passthrough.js",
-    "./Text/dist/text.js"
+    "./Custom/dist/custom.js",
+    "./Decision/dist/decision.js",
+    "./Json/dist/bundle.js"
 ]
